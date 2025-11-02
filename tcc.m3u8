@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191935&extension=m3u8
