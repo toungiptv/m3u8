@@ -4,5 +4,3 @@
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115417&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2496000,RESOLUTION=1920x1080
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115415&extension=m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2496000,RESOLUTION=1920x1080
-http://s3.e-cdn.me:80/live/Bengamenbukinafaso2026/msvrpi45e1/1776220.m3u8
