@@ -4,3 +4,5 @@
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115609&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115612&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=563002&extension=m3u8
