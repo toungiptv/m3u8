@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF: -1 tvg-id="" tvg-logo="https://api.eatmorebanana.org/images/png/hd-warnertv.png" group-title="Thailand" tvg-name="HD-WARNERTV",HD-WARNERTV
 #EXTVLCOPT:http-referrer=https://embed-xlb.eatmorebanana.org/
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 ]
 https://embed-xlb.eatmorebanana.org/player_basic.php?api_key=MIcWPyCpm6maZGJQ&channel=hd-warnertv
