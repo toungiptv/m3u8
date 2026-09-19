@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=90000000,RESOLUTION=1920x1080
+http://tv-premium-pro.com:80/live/wezqqszfr2/i7481xvrdf/1776192.ts
